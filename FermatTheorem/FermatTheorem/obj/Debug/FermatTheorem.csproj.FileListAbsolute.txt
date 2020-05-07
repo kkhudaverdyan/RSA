@@ -1,0 +1,7 @@
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\obj\Debug\FermatTheorem.csprojAssemblyReference.cache
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\obj\Debug\FermatTheorem.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\bin\Debug\FermatTheorem.exe.config
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\bin\Debug\FermatTheorem.exe
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\bin\Debug\FermatTheorem.pdb
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\obj\Debug\FermatTheorem.exe
+C:\Users\Arman\Desktop\AES Tnayin\FermatTheorem\FermatTheorem\obj\Debug\FermatTheorem.pdb
